@@ -1,0 +1,3 @@
+# Socket.io Chat App
+
+This is a real-time chat application built using Node.js and Express.js for the server and Socket.io for handling real-time communication. Users can join chat rooms, send messages, and see live updates like "typing" notifications. The project includes both server-side and client-side code to manage users, rooms, and message broadcasting, making it a foundation for building real-time chat applications.
